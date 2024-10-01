@@ -19,7 +19,7 @@ const IncomeExpenses = () => {
         </div>
         <div>
           <h4>Expense</h4>
-          <p className="money minus">-${expense < 0? expense*-1 : expense}</p>
+          <p className="money minus">-${expense < 0? (expense*-1).toFixed(2) : expense}</p>
         </div>
       </div>
   );
