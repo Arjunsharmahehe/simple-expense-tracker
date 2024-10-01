@@ -13,7 +13,7 @@ const Balance = () => {
   return (
     <>
       <h4>Your Balance</h4>
-      <h1>{sign}${total < 0? total*-1 : total}</h1>
+      <h1>{sign}${total < 0? (total*-1).toFixed(2) : total}</h1>
     </>
   );
 }
