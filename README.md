@@ -1,5 +1,9 @@
 # Simple Expense Tracker
 
+### Link
+[here](https://expensetrackerhehe.netlify.app/)    
+Why does it show dollars and not rupees? Well, it was easier to type.
+
 It is a siple expense tracker built using **React**. It is a learning project made with a help of a tutorial on YouTube by **Traversy Media**, link to the particular video is [here](https://youtu.be/XuFDcZABiDQ?si=rXElBuiTnx9QCLeu).    
 Tho this is not a type of project you would build using React as it adds an added layer of complexity. It is easier and simpler to do it in plain HTML, CSS and JavaScript. It's still fine to do this in react as you can later make it a module and integrate in a bigger project that you might be working on in the future. 
 
