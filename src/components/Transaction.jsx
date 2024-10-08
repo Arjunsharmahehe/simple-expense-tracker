@@ -14,7 +14,7 @@ const Transaction = ({transaction}) => {
 
   return (
     <li className={transactionType}>
-      {transaction.text} <span>{ sign }${ Math.abs(transaction.amount) }</span>
+      {transaction.text} <span>{ sign }₹{ Math.abs(transaction.amount) }</span>
       <button className="delete-btn" onClick={ () => deleteTransaction(transaction.id) }>x</button>
     </li>
   );
