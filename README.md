@@ -1,7 +1,9 @@
 # Simple Expense Tracker
 
 ### Link
-[here](https://expensetrackerhehe.netlify.app/)    
+[here](https://expensetrackerhehe.netlify.app/) 
+
+# Introduction   
 Why does it show dollars and not rupees? Well, it was easier to type.
 
 It is a siple expense tracker built using **React**. It is a learning project made with a help of a tutorial on YouTube by **Traversy Media**, link to the particular video is [here](https://youtu.be/XuFDcZABiDQ?si=rXElBuiTnx9QCLeu).    
